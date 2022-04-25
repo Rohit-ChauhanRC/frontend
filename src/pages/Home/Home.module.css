@@ -3,6 +3,7 @@
   font-weight: normal;
   line-height: 1.6;
   color: #c4c5c5;
+  text-align: center;
   margin-bottom: 30px;
 }
 
@@ -13,10 +14,10 @@
   margin-top: 6rem;
 }
 
-.signinWrapper{
+.signinWrapper {
   margin-top: 20px;
 }
 
-.hasInvite{
+.hasInvite {
   color: #0077ff;
 }
