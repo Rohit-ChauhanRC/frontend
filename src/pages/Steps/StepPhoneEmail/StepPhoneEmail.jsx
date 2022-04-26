@@ -13,9 +13,9 @@ const StepPhoneEmail = ({ onNext }) => {
 
   const Component = phoneEmailMap[type];
 
-  function onNext() {
-    // setType(step + 1);
-  }
+  // function onNext() {
+  //   // setType(step + 1);
+  // }
 
   return (
     <>
